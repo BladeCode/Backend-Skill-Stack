@@ -2,13 +2,29 @@
 
 J2SE，标准版的Java平台，为用户提供一个程序开发环境。这个程序开发环境提供了开发与运行Java软件的编译器等开发工具、软件库及Java虚拟机。它也是企业版本和Java网页服务的基础。
 
-> Java SE 相关示例代码请查看 [rc-cluster-jdk](https://github.com/RootCluster/rc-cluster-jdk) 项目
-
 # 安装配置
 
 [官方下载地址](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## MacOS
+直接下载`.dmg`格式的安装包进行安装
+
+```bash
+# 查看安装的Java版本
+java -version
+# 编辑profile文件
+sudo vim /etc/profile
+# 在打开的 profile 文件中，最下面加入以下文本，添加完成后，保存退出，`jdk1.8.0_191.jdk`路径请自行更改
+JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/"
+# 配置CLASS_PATH
+CLASS_PATH="$JAVA_HOME/lib"
+# 配置PATH
+PATH=".:$PATH:$JAVA_HOME/bin"
+# 使配置生效
+source /etc/profile
+# 查看JAVA_HOME是否正确
+echo $JAVA_HOME
+```
 
 ## Linux
 > Linux系统官方提供了.rpm,.gz两种格式安装包
