@@ -1,8 +1,9 @@
-![logo](https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png)
+![logo](_media/Java_logo.png)
+<!-- ![logo](_media/icon.svg?sanitize=true) -->
 
 # Java Skill Stack<small> learning </small>
 
-> Java技能学习蜕变之路
+<!-- > Java技能学习蜕变之路 -->
 
 * Java SE
 * DateBase

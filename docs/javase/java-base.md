@@ -11,12 +11,12 @@ rc-cluster-jdk
     ├── README.md    
     └── LICENSE  
 ```
->Java SE 相关地址：https://github.com/RootCluster/rc-cluster-jdk
+!> Java SE 相关示例代码请查看 [rc-cluster-jdk](https://github.com/RootCluster/rc-cluster-jdk) 项目
 
 # 基本数据类型
 
  名称   |   范围   |  类型  |   位数  | 默认值  | 包装类型 & 默认值
-------- | ------- | ------- | ------- | ------- |
+------- | ------- | ------- | ------- | ------- | ------- |
 byte    | -2⁷ ~ (2⁷ - 1) | 字节型 | 8位(1字节) | 0 | Byte(null)
 int     | -2¹⁵ ~ (2¹⁵ - 1) | 整型 | 32位(4字节) | 0 | Integer(null)
 short   | -2¹⁵ ~ (2¹⁵ - 1) | 短整型 | 16位(2字节) | 0 | Short(null)
