@@ -7,6 +7,7 @@ J2SE，标准版的Java平台，为用户提供一个程序开发环境。这个
 [官方下载地址](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## MacOS
+
 直接下载`.dmg`格式的安装包进行安装
 
 ```bash
@@ -27,6 +28,7 @@ echo $JAVA_HOME
 ```
 
 ## Linux
+
 > Linux系统官方提供了.rpm,.gz两种格式安装包
 
 ```bash
@@ -61,4 +63,5 @@ java –version
     * 验证
 
 # JDK 与 JRE
+
 ![jdk](../_media/javase/jdk.png)
