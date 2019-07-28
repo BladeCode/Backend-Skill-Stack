@@ -158,7 +158,8 @@ People are often confused by other,non-object-oriented features of Java,like met
 
 当使用多态方式调用方法时，先检查父类中是否有调用的方法，没有则会编译失败
 
-####　两种类型转换
+
+#### 两种类型转换
 
 * 向上类型转换（upcast）：子类型转换为父类型，对于向上类型转换不需要显示的指定
 * 向下类型转换（downcast）：父类型转换为子类型，对于向下类型转换必须显示指定（必须要使用强制类型转换）

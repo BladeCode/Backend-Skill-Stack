@@ -147,7 +147,7 @@ Java中主要进制
 ```java
 variable x = (expression) ? value if true : value if false 
 ```
-* Instanceof 符  
+* instanceof 符  
 这种操作符只用于对象引用变量。这种操作符检查对象是否是独特类型（类型或接口类型）
 ```java
 ( Object reference variable ) instanceof  (class/interface type)
