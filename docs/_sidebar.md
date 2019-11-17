@@ -7,10 +7,13 @@
     * [Java 数组](javase/java-array)
     * [Java 日期](javase/java-date)
 * JDK8
-    * [JDK8 ](jdk8/jdk8)
+    * [JDK8](jdk8/jdk8)
+    * [JDK8 时间](jdk8/jdk8-api-date)
 * JUnit
 * UML
 * DateBase
+    * [MySQL](db/mysql)
+    * [MySQL VS Java](db/mysql-compared-java)
 * Java EE
 * Java Web
 * Java Web FrameWork
