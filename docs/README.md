@@ -30,7 +30,10 @@ Java是一种广泛使用的计算机编程语言，拥有 **跨平台**、**面
 相关项目
 * 主项目：[java-skill-stack](https://github.com/BladeCode/java-skill-stack)
     * 子项目：[rc-cluster-jdk](https://github.com/RootCluster/rc-cluster-jdk)
-    * 子项目：[rc-cluster-ee](https://github.com/RootCluster/rc-cluster-ee)
+    * 子项目：[rc-cluster-springboot](https://github.com/RootCluster/rc-cluster-springboot)
+    * 子项目：[rc-cluster-springcloud](https://github.com/RootCluster/rc-cluster-springcloud)
+    * 子项目：[rc-cluster-mq](https://github.com/RootCluster/rc-cluster-mq)
+    * 子项目：[rc-cluster-netty](https://github.com/RootCluster/rc-cluster-netty)
 
 参考资料
 * [Java 语言快速入门](http://wiki.jikexueyuan.com/project/java)
