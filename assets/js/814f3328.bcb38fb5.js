@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbackend_skill_stack=self.webpackChunkbackend_skill_stack||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Version 2.0","permalink":"/blog/welcome"}]}')}}]);

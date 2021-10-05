@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbackend_skill_stack=self.webpackChunkbackend_skill_stack||[]).push([[601],{9663:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/version","name":"version","count":1,"permalink":"/blog/tags/version"}')}}]);

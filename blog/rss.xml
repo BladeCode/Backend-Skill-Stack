@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Backend-Skill-Stack Blog</title>
+        <link>https://backend.incoder.org/blog</link>
+        <description>Backend-Skill-Stack Blog</description>
+        <lastBuildDate>Tue, 05 Oct 2021 09:40:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Version 2.0]]></title>
+            <link>https://backend.incoder.org/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Tue, 05 Oct 2021 09:40:52 GMT</pubDate>
+            <description><![CDATA[本次迁移 Backend-Skill-Stack 站点项目到最新的 Docusaurus 版本，并重新开启移动端的知识点总结，本次更新]]></description>
+        </item>
+    </channel>
+</rss>
