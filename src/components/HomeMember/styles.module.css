@@ -1,0 +1,11 @@
+.section {
+  padding: 72px 0;
+}
+
+.sectionAlt {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.sectionInner {
+  margin: 0 auto;
+}

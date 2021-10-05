@@ -1,29 +1,23 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Java template
-# Compiled class file
-*.class
+# Dependencies
+/node_modules
 
-# Log file
-*.log
+# Production
+/build
 
-# BlueJ files
-*.ctxt
+# Generated files
+.docusaurus
+.cache-loader
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-*.idea/
+# Misc
+.DS_Store
+.vscode
+.idea
 *.iml
-*.vscode/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
