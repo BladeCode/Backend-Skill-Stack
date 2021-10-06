@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://backend.incoder.org/blog</id>
     <title>Backend-Skill-Stack Blog</title>
-    <updated>2021-10-05T09:40:52.802Z</updated>
+    <updated>2021-10-06T01:51:06.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://backend.incoder.org/blog"/>
     <subtitle>Backend-Skill-Stack Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Version 2.0]]></title>
         <id>welcome</id>
         <link href="https://backend.incoder.org/blog/welcome"/>
-        <updated>2021-10-05T09:40:52.802Z</updated>
+        <updated>2021-10-06T01:51:06.796Z</updated>
         <summary type="html"><![CDATA[本次迁移 Backend-Skill-Stack 站点项目到最新的 Docusaurus 版本，并重新开启移动端的知识点总结，本次更新]]></summary>
         <author>
             <name>Jerry xu</name>
