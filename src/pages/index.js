@@ -17,7 +17,7 @@ function HomepageHeader() {
           <img
             alt='backend logo'
             className={styles.heroLogo}
-            src='../../static/img/backend-breakfast.svg'
+            src={`${siteConfig.baseUrl}img/backend-breakfast.svg`}
           />
           <span
             className={styles.heroTitleTextHtml}
