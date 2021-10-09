@@ -5,12 +5,13 @@ title: 学习资料
 
 import {
   BookCard,
-  NetworkVideoCard,
-  StructureAndAlgorithmVideoCard,
-  OperatingSystemVideoCard,
-  ComputerCompositionPrincipleCard,
-  CompilationPrincipleCard,
-  WechatSubscriptionsCard,
+  StandardCard,
+  NetworkVideo,
+  StructureAndAlgorithmVideo,
+  OperatingSystemVideo,
+  ComputerCompositionPrinciple,
+  CompilationPrinciple,
+  WechatSubscriptions,
 } from '@site/src/components/DatumCard';
 
 记录了我获取知识的来源，希望也能给你带来帮助
@@ -23,28 +24,27 @@ import {
 
 ### 计算机网络
 
-<NetworkVideoCard />
+<StandardCard  NetworkVideo={NetworkVideo}/>
 
 ### 数据结构与算法
 
-<StructureAndAlgorithmVideoCard />
+<StandardCard  StructureAndAlgorithmVideo={StructureAndAlgorithmVideo}/>
 
 ### 操作系统
 
-<OperatingSystemVideoCard />
+<StandardCard  OperatingSystemVideo={OperatingSystemVideo}/>
 
 ### 计算机组成原理
 
-<ComputerCompositionPrincipleCard />
+<StandardCard  ComputerCompositionPrinciple={ComputerCompositionPrinciple}/>
 
 ### 编译原理
 
-<CompilationPrincipleCard/>
+<StandardCard  CompilationPrinciple={CompilationPrinciple}/>
 
 ## 公众号
 
-<WechatSubscriptionsCard />
-
+<StandardCard  WechatSubscriptions={WechatSubscriptions}/>
 
 ## 参考
 
